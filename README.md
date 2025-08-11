@@ -22,7 +22,7 @@ git clone <repository-url>
 cd figure_parser
 
 # Install dependencies
-pip install -r requirements.txt
+uv sync
 
 # Set up environment variables
 cp .env.example .env
