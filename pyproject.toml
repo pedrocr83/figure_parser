@@ -11,4 +11,5 @@ dependencies = [
     "Pillow>=9.0.0",
     "python-dotenv>=1.0.0",
     "scikit-image>=0.25.2",
+    "opencv-python>=4.8.0",
 ]
