@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# Output and data
+*.json
+*.jsonl
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.log
+output/
+data/
+
+# PDF files
+*.pdf
+
+# IDE/editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# OS
+.DS_Store
+*.swp
+*.bak
+
+# Misc
+*.zip
+*.tar.gz
+*.tar
+*.7z
+*.rar 
