@@ -18,7 +18,7 @@ A comprehensive tool for extracting figures and tables from PDFs with optional A
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/pedrocr83/figure_parser.git
 cd figure_parser
 
 # Install dependencies
